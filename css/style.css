@@ -1,0 +1,10 @@
+p {
+  color: #ae00ff8d;
+  line-height: 1.6;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
